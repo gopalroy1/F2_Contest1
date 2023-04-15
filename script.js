@@ -9,7 +9,7 @@ let arr = [
 // PrintDeveloperbyForEach()
 // addData()
 // removeAdmin()
-  concatenateArray()
+  // concatenateArray()
 function call(item,i){
   let prof =item.profession;
   if(prof=="developer")
